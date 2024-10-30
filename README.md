@@ -1,6 +1,6 @@
 ## TalentScout
 
-TalentScout is a decentralized talent engagement and payment management platform on the Reactive Network. This smart contract enables scouts and talents to establish engagement agreements, with automatic payment release or refund based on predefined deadlines. The contract integrates with the Reactive Network to ensure deadlines are managed transparently, securely, and efficiently.
+TalentScout is a decentralized talent engagement and payment management platform. This smart contract enables scouts and talents to establish engagement agreements, with automatic payment release or refund based on predefined deadlines. The contract ensures deadlines are managed transparently, securely, and efficiently.
 
 ## Features
 Engagement Management: Create, track, and manage engagements between scouts and talents.
